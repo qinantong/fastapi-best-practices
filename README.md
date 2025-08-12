@@ -5,6 +5,8 @@ For the last several years in production,
 we have been making good and bad decisions that impacted our developer experience dramatically.
 Some of them are worth sharing.
 
+*[简体中文](./README_ZH.md)*
+
 ## Contents  <!-- omit from toc -->
 - [Project Structure](#project-structure)
 - [Async Routes](#async-routes)
